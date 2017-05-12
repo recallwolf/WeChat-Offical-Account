@@ -3,5 +3,5 @@ A wechat offical account based on django
 
 User can search weather ,railway info ,and so on.
 
-wechat-python-sdk : https://wechat-sdk.doraemonext.com/quickstart/intro/
+wechat-python-sdk : https://wechat-sdk.doraemonext.com/quickstart/intro/ <br>
 wechat https://mp.weixin.qq.com/wiki/home/
