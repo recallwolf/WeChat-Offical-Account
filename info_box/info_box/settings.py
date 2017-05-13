@@ -25,7 +25,7 @@ SECRET_KEY = '+=je80&8zsrvggnwo2g&-f5bf(scw_zuj8f1ef1am8$q9o$+zt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.rwnexus.site']
 
 
 # Application definition
@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'wechat',
 )
 
 MIDDLEWARE_CLASSES = (
